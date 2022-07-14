@@ -1,3 +1,5 @@
+# 前排公告：本人已经入驻爱发电平台，欢迎各位客官前往助力！https://afdian.net/@thestudent
+
 # JianJiang-PythonGame
 剑匠-基于python的创意游戏
 ## 短期目标功能:
@@ -8,4 +10,5 @@
 ## 开发日志
 * 2022.3.5
     > 立项
+
 
